@@ -12,9 +12,27 @@ nav ul {
 }
 
 .logo {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .wrapper {
-    background-color: #eee8d5;
+  background-color: #eee8d5;
+}
+
+#contents,
+#favs,
+#types {
+  color: #93a1a1;
+}
+
+.wrapper > .dfn {
+    background-color: #b58900;
+}
+
+.dfn p + strong {
+  color: #fff;
+}
+
+a:not(.no-highlight) {
+  background-color: #719e07;
 }
