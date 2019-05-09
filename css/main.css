@@ -6,6 +6,13 @@ body {
 header,
 footer {
   font-size: 1.5rem;
+  margin-block-start: .67em;
+  margin-block-end: .67em;
+}
+
+h2 {
+  margin-top: .5em;
+  margin-bottom: .5em;
 }
 
 nav ul {
