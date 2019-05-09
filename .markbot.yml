@@ -30,6 +30,6 @@ css:
       - "background-color: #586e75;"
       - "background-color: #d04b16;"
 
-screenshots:
-  - path: 'index.html'
-    sizes: [608]
+# screenshots:
+#   - path: 'index.html'
+#     sizes: [608]
