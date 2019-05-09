@@ -26,7 +26,7 @@ nav ul {
 }
 
 .wrapper > .dfn {
-    background-color: #b58900;
+  background-color: #b58900;
 }
 
 .dfn p + strong {
@@ -42,7 +42,7 @@ a[rel="external"] {
 }
 
 ol li:first-child {
-  color: #719e49;
+  color: #719e47;
 }
 
 ol li:last-child {
